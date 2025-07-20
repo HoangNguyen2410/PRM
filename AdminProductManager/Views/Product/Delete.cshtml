@@ -1,0 +1,28 @@
+@model AdminProductManager.Models.Product
+@{
+    ViewData["Title"] = "Delete Product";
+}
+<h2>Delete Product</h2>
+<h3>Bạn có chắc chắn muốn xóa sản phẩm này?</h3>
+<div>
+    <h4>@Model.Name</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@Model.Description</dd>
+        <dt class="col-sm-2">Price</dt>
+        <dd class="col-sm-10">@Model.Price</dd>
+        <dt class="col-sm-2">Image</dt>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <img src="@Model.ImageUrl" width="120" />
+            }
+        </dd>
+    </dl>
+</div>
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form> 

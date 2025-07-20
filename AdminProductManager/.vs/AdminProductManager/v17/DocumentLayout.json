@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\models\\productfirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:models\\productfirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|c:\\users\\hellt\\videos\\prm\\adminproductmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F3D340C-8344-4808-86CD-6B964CFCBF32}|AdminProductManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T19:03:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:02:05.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T19:00:54.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:41:56.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T17:57:39.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T17:57:30.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T17:54:39.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T17:54:34.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductFirebaseService.cs",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Models\\ProductFirebaseService.cs",
+              "RelativeDocumentMoniker": "Models\\ProductFirebaseService.cs",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\Models\\ProductFirebaseService.cs",
+              "RelativeToolTip": "Models\\ProductFirebaseService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAnwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:49:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hellt\\Videos\\PRM\\AdminProductManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T17:46:59.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
